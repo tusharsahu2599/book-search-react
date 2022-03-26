@@ -1,0 +1,160 @@
+{
+  "books":[
+      {
+          "title":"the love songs",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcghhqDa3FSXr7LjMrczXDkX9_5Ut4Y6uWrA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book of mysteries",
+          "price": 2234,
+          "section": "mystery",
+          "isbnNumber": 1234567,
+          "id":1
+       },
+       {
+          "title":"The twelfth child",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9eiPUd6cE7xP6r-o4FXy5zPMqLW1OlgoxA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 999,
+          "section": "mystery",
+          "isbnNumber": 1234567,
+          "id":2
+       },
+       {
+          "title":"bermuda triangle",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ22I5aJUSoRNgsazfpPWBuZeVqL5D_r85KQ&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"secret corps",
+          "price": 6543,
+          "section": "mystery",
+          "isbnNumber": 1234567,
+          "id":3
+       },
+       {
+          "title":"walk the wire",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH94XDPMDdJJUuArmeF8a-apzIKcjz-IWHIg&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 5246,
+          "section": "technology",
+          "isbnNumber": 1234567,
+          "id":4
+       },
+       {
+          "title":"secret corps",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaGHlOfRRxlYhGJ6KHcKuNxYQMZhnyn9AUA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 2000,
+          "section": "technology",
+          "isbnNumber": 1234567,
+          "id":5
+       },
+       {
+          "title":"unleaash the dragon",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3S-5Z0zwKCY6jKolW5naQojapyk68yHFGHw&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"secret corps",
+          "price": 3566,
+          "section": "technology",
+          "isbnNumber": 1234567,
+          "id":6
+       },
+       {
+          "title":"seven endless forests",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBw75iUts6UaMCMbaBBOu4uR72HLjVoZC_g&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 1234,
+          "section": "mythology",
+          "isbnNumber": 1234567,
+          "id":7
+       },
+       {
+          "title":"It's Okay",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuFOOUUXDAH6Duoh3fEYlDLS9Obh5uVLxxYA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 1234,
+          "section": "mythology",
+          "isbnNumber": 1234567,
+          "id":8
+       },
+       {
+          "title":"secret corps",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaGHlOfRRxlYhGJ6KHcKuNxYQMZhnyn9AUA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 1234,
+          "section": "mythology",
+          "isbnNumber": 1234567,
+          "id":9
+       },
+       {
+          "title":"A Million to one",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfxrcUtlaLqSTTpA7N9cWKIopvRNtXngM2A&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 4500,
+          "section": "history",
+          "isbnNumber": 1234567,
+          "id":10
+       },
+       {
+          "title":"Book Name 11",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaGHlOfRRxlYhGJ6KHcKuNxYQMZhnyn9AUA&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 999,
+          "section": "history",
+          "isbnNumber": 1234567,
+          "id":11
+       },
+       {
+          "title":"The Best",
+          "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_r311mAScLwmgZLluzUdtOzBFx0z2wBCDw&usqp=CAU",
+          "description":"Book desc",
+          "reviews":[
+              "multiple reviews here"
+          ],
+          "author":"Book Author",
+          "price": 3299,
+          "section": "history",
+          "isbnNumber": 1234567,
+          "id":12
+       }
+  ]
+}
