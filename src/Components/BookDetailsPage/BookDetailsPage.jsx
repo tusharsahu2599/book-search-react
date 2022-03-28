@@ -29,6 +29,9 @@ export const BookDetailsPage = () => {
         <div className="isbnNumber">{book.isbnNumber}</div>
         <ul className="reviews">
           {/* Reviews will be an array, iterate over them and create a new <li> for every review */}
+          {/* {book.reviews.map((el,i) => {
+            return <li>{el}</li>
+          })} */}
         </ul>
       </div>
     </>
